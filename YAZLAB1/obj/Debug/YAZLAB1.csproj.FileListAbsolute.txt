@@ -1,0 +1,28 @@
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.exe.config
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.exe
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.pdb
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.Design.dll
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.dll
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csprojResolveAssemblyReference.cache
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Form1.resources
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Properties.Resources.resources
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csproj.GenerateResource.Cache
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.exe
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.pdb
+C:\Users\F\source\repos\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Form2.resources
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.exe.config
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.exe
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\YAZLAB1.pdb
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.Design.dll
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.dll
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csprojResolveAssemblyReference.cache
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Form1.resources
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Form2.resources
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.Properties.Resources.resources
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csproj.GenerateResource.Cache
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.csproj.CoreCompileInputs.cache
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.exe
+C:\Users\F\Documents\Furkan Topuz\KOU\Okul\Yazılım_Laboratuvarı\YazLab_Proje1\YAZLAB1\YAZLAB1\obj\Debug\YAZLAB1.pdb
